@@ -1,2 +1,3 @@
-# Unit-1-assignment
+# MadLibs Project
 MadLibs
+I worked on this project during Unit 1 of my JS class
